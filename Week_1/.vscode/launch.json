@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/harshvardhan/Summer_Assignment_2401921530111/Week_1/Day_3",
+      "program": "/Users/harshvardhan/Summer_Assignment_2401921530111/Week_1/Day_3/build/Debug/outDebug"
+    }
+  ]
+}
